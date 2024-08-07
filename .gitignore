@@ -1,0 +1,42 @@
+# Node modules
+/node_modules/
+
+# Build output
+/build/
+/dist/
+
+# Logs
+*.log
+npm-debug.log*
+
+# Dependency directories
+/.pnp
+.pnp.js
+
+# Environment files
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# IDEs and editors
+.vscode/
+.idea/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Misc
+*.swp
+*.swo
+*.swn
+*.sublime-project
+*.sublime-workspace
+
+# Test coverage
+/coverage/
+
+# Yarn Integrity
+.yarn-integrity
